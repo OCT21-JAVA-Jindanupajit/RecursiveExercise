@@ -1,4 +1,5 @@
 ##Recursive methods  
+
 A recursive method is one which calls itself. The ability for a method to call itself allows you to more easily solve some problems that would be very difficult of imposisble to solve otherwise.
 
     import java.io.File;
