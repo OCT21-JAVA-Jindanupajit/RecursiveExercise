@@ -1,4 +1,4 @@
-##Recursive methods
+##Recursive methods  
 A recursive method is one which calls itself. The ability for a method to call itself allows you to more easily solve some problems that would be very difficult of imposisble to solve otherwise.
 
     import java.io.File;
@@ -31,7 +31,7 @@ A recursive method is one which calls itself. The ability for a method to call i
     
     }
 
-###Assignment #1
+###Assignment #1 
 
 By definition, the first two numbers in the Fibonacci sequence are either 1 and 1, or 0 and 1, depending on the chosen starting point of the sequence, and each subsequent number is the sum of the previous two.
 
@@ -39,7 +39,7 @@ Write a recursive method to create a Fibonacci sequence of 20 numbers.
 
  
 
-###Assignment #2
+###Assignment #2 
 
 Create a Java method to display the sequence of numbers in the Collatz conjecture.
 
